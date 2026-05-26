@@ -5,7 +5,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13+-orange)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Gesture%20Detection-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Computer Vision]((https://shields.io))
+![Computer Vision](https://img.shields.io/badge/ComputerVision-Gestrue%20Detection-red)
+![Open CV](https://img.shields.io/badge/OpenCV-Gestrue%20Detection-green)
 
 ---
 
